@@ -1,2 +1,2 @@
 # GameMat
-Aplicação de console -> Jogo que gera fórmulas matemáticas com dificuldades em 4 níveis e com um placar de pontos.
+Console application -> Game that generates mathematical formulas with difficulties in 4 levels and with a scoreboard.
